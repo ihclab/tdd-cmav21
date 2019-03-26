@@ -3,16 +3,16 @@
 namespace Ordenamiento
 {
     public class Burbuja {
-        public void Ordenar(int[] arr) {
-             for (int i = 1; i < arr.Length; i++)
+        public void Ordenar(int[] enteros) {
+             for (int i = 1; i < enteros.Length; i++)
             {
-                for (int j = arr.Length - 1; j >= i; j--)
+                for (int j = enteros.Length - 1; j >= i; j--)
                 {
-                    if (arr[j - 1] > arr[j])
+                    if (enteros[j - 1] > enteros[j])
                     {
-                        int aux = arr[j - 1];
-                        arr[j - 1] = arr[j];
-                        arr[j] = aux;
+                        int aux = enteros[j - 1];
+                        enteros[j - 1] = enteros[j];
+                        enteros[j] = aux;
                     }
                 }
             }
