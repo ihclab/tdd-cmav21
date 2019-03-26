@@ -1,0 +1,9 @@
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.deps.json
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.pdb
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csprojAssemblyReference.cache
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csproj.CoreCompileInputs.cache
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfoInputs.cache
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfo.cs
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.pdb

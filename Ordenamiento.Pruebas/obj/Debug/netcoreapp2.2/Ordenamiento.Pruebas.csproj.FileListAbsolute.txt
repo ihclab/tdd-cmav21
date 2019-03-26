@@ -1,0 +1,17 @@
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.deps.json
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.runtimeconfig.json
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.runtimeconfig.dev.json
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.Pruebas.pdb
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pdb
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csprojAssemblyReference.cache
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.AssemblyInfo.cs
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.csproj.CopyComplete
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.dll
+/home/cesar/Documents/tdd-cmav21/Ordenamiento.Pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.Pruebas.pdb
